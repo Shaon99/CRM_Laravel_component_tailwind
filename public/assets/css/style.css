@@ -1,0 +1,8 @@
+/* Smooth table transitions for dark mode */
+table {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+tr {
+    transition: background-color 0.3s ease;
+}
